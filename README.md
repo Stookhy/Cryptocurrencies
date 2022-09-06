@@ -6,3 +6,5 @@
   3.  Cluster data using the K-means algorithm.
   4.  Determine the best number of centroids for K-means using the elbow curve.
   5.  Use PCA to limit features and speed up the model.
+
+## Results
