@@ -9,8 +9,8 @@
 
 ## Results
 
-![This is an image]
+![This is an image](https://github.com/Stookhy/Cryptocurrencies/blob/main/Resources/3D%20Scatter%20Clusters.png?raw=true)
 
-![This is an image]
+![This is an image](https://github.com/Stookhy/Cryptocurrencies/blob/main/Resources/Elbow%20Curve.png?raw=true)
 
-![This is an image]
+![This is an image](https://github.com/Stookhy/Cryptocurrencies/blob/main/Resources/Plot%20Scatter.png?raw=true)
