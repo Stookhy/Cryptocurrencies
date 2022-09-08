@@ -8,3 +8,9 @@
   5.  Use PCA to limit features and speed up the model.
 
 ## Results
+
+![This is an image]
+
+![This is an image]
+
+![This is an image]
