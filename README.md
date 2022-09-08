@@ -7,6 +7,10 @@
   4.  Determine the best number of centroids for K-means using the elbow curve.
   5.  Use PCA to limit features and speed up the model.
 
+## Purpose 
+
+  Using unsupervised learning to process data by grouping cyrptocurrencies on a clustering algorithm. 
+
 ## Results
 
    ### Elbow Curve
