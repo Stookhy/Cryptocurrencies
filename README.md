@@ -9,7 +9,7 @@
 
 ## Purpose 
 
-  Using unsupervised learning to process data by grouping cyrptocurrencies on a clustering algorithm. 
+  Using unsupervised machine learning to process data by grouping cyrptocurrencies on a clustering algorithm. 
 
 ## Results
 
