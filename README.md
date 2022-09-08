@@ -19,5 +19,5 @@
    ### 3D-Scatter with Clusters
 ![This is an image](https://github.com/Stookhy/Cryptocurrencies/blob/main/Resources/3D%20Scatter%20Clusters.png?raw=true)
 
-   ### Holoviz Plots
+   ### Holoviz Scatter Plots
 ![This is an image](https://github.com/Stookhy/Cryptocurrencies/blob/main/Resources/Plot%20Scatter.png?raw=true)
