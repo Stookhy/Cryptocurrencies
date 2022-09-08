@@ -9,8 +9,11 @@
 
 ## Results
 
-![This is an image](https://github.com/Stookhy/Cryptocurrencies/blob/main/Resources/3D%20Scatter%20Clusters.png?raw=true)
-
+   Elbow Curve
 ![This is an image](https://github.com/Stookhy/Cryptocurrencies/blob/main/Resources/Elbow%20Curve.png?raw=true)
 
+   3D-Scatter with Clusters
+![This is an image](https://github.com/Stookhy/Cryptocurrencies/blob/main/Resources/3D%20Scatter%20Clusters.png?raw=true)
+
+   Plot Scatter
 ![This is an image](https://github.com/Stookhy/Cryptocurrencies/blob/main/Resources/Plot%20Scatter.png?raw=true)
